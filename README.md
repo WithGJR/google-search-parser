@@ -5,5 +5,5 @@ This project is an sample parser project for [Search Result Crawler](https://git
 ## Installation
 
 ``` bash
-go get https://github.com/WithGJR/google-search-parser
+go get github.com/WithGJR/google-search-parser
 ```
